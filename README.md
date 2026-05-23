@@ -2,7 +2,7 @@
 
 
 <!--- snake -->
-<p align="center"> <img src="https://raw.githubusercontent.com/MarcoRg06/MarcoRg06/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MarcoRg06/MarcoRg06/output/github-contribution-grid-snake-dark.svg" /> </p>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
